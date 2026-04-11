@@ -1,13 +1,13 @@
 {
-  "name": "Builder's Dream",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Builder's Dream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Builders_Dreams-DJDt.aternos.me",
-    "port": 55329,
+    "ip": "Builders_Dreams_sick.aternos.me",
+    "port": 38047,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Dont do anything to me please",
+        "I like to play Minecraft."
       ]
     },
     "chat-log": true,
