@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DarknessBot",
+    "username": "Darkness",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Dont do anything to me please",
-        "I like to play Minecraft."
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -50,8 +50,8 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 5,
+      "speed": 100
     },
     "look-around": {
       "enabled": true,
