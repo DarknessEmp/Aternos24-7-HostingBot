@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 3600,
       "messages": [
-        "",
-        "",
+        "check out the rules in the discord server https://discord.gg/AXBEqwcqnk",
+        "join https://discord.gg/AXBEqwcqnk now and have some fun",
         ""
       ]
     },
