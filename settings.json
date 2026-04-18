@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Darkness",
+    "username": "Juliet",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 3600,
+      "repeat-delay": 1800,
       "messages": [
         "check out the rules in the discord server https://discord.gg/AXBEqwcqnk",
         "join https://discord.gg/AXBEqwcqnk now and have some fun",
-        ""
+        "Stivinson371 is my best friend!!!"
       ]
     },
     "chat-log": true,
@@ -87,6 +87,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
