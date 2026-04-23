@@ -50,8 +50,8 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 5,
-      "speed": 100
+      "radius": 10,
+      "speed": 200
     },
     "look-around": {
       "enabled": true,
@@ -59,7 +59,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 10
     }
   },
   "modules": {
